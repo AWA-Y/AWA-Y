@@ -1,5 +1,5 @@
 
-```markdown
+markdown
 ### AWA-Y
 ------
 
@@ -13,4 +13,4 @@
 
 ![](https://shields.io/badge/C_Sharp-lightgray?logo=c&logoColor=black&style=for-the-badge) ![](https://shields.io/badge/Python-F7DF1E?logo=python&logoColor=black&style=for-the-badge)
 
-![metrics](https://metrics.lecoq.io/AWA-Y?template=classic&config.timezone=Europe%2FKiev)```
+![metrics](https://metrics.lecoq.io/AWA-Y?template=classic&config.timezone=Europe%2FKiev)
